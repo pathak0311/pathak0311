@@ -14,4 +14,4 @@ Software builder. I write Python, Dart/Flutter, and JavaScript, and I like autom
 
 Stack: Python, Dart/Flutter, JavaScript, Remotion, GitHub Actions, OpenClaw.
 
-Find me on [X](https://x.com/) or [GitHub](https://github.com/pathak0311).
+Find me on [X](https://x.com/hars_hiit) or [GitHub](https://github.com/pathak0311).

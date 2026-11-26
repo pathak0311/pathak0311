@@ -14,6 +14,7 @@ Software builder. I build pipelines that run on their own: question in, finished
 ## Watch the automations run
 
 - 🎤 Rap battles: [YouTube @rapbattlesshorts](https://www.youtube.com/@rapbattlesshorts) · [Instagram @rapbattlebot](https://www.instagram.com/rapbattlebot/)
+- 🧪 JEE chemistry Shorts: [YouTube @jeequestionshorts](https://www.youtube.com/@jeequestionshorts)
 - 🧾 Hawa Hisaab daily AQI receipts: [X @HawaHisaabBot](https://x.com/HawaHisaabBot)
 
 ## Earlier work

@@ -11,6 +11,11 @@ Software builder. I build pipelines that run on their own: question in, finished
 - 🧾 **[hawa-hisaab](https://github.com/pathak0311/hawa-hisaab)** - AQI-to-cigarettes receipt bot for Indian cities. Python, WAQI data, Remotion, GitHub Actions.
 - 🦞 **[openclaw-social-clipper](https://github.com/pathak0311/openclaw-social-clipper)** - Turns an OpenClaw agent into a one-tap second brain for X, Reddit, YouTube Shorts, and Reels.
 
+## Watch the automations run
+
+- 🎤 Rap battles: [YouTube @rapbattlesshorts](https://www.youtube.com/@rapbattlesshorts) · [Instagram @rapbattlebot](https://www.instagram.com/rapbattlebot/)
+- 🧾 Hawa Hisaab daily AQI receipts: [X @HawaHisaabBot](https://x.com/HawaHisaabBot)
+
 ## Earlier work
 
 - 📱 [escape_query](https://github.com/pathak0311/escape_query) - Flutter app
